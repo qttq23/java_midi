@@ -1,9 +1,13 @@
-#### compile and run
-javac Test.java  
+#### usage:
+
+1. put .mid files to input folder
+
+2. run on terminal:
 java Test
 
-#### change file name:
-go to Test.java and change these variables  
-    public static final String midiFileName = "canond.mid";  
-    public static final String outFileName = "output.txt";
+3. output files in output folder
+
+
+#### to build:
+javac Test.java
 
